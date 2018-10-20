@@ -15,7 +15,7 @@ Title: Les gens de bureau
 Author: Emile Gaboriau
 
 Release Date: February 26, 2004  [eBook #11301]
-[Date last updated: January 16, 2005]
+[Last updated: December 5, 2014]
 
 Language: French
 
@@ -338,7 +338,7 @@ Sans mot dire, grave, contenu, M. Krugenstern tira de sa poche son
 mètre et son morceau de craie, et prit mesure à Caldas, qu'il trouva
 sensiblement maigri.
 
---Mais...que faites-vous, mon cher ami? dit Caldas inquiet.
+--Mais... que faites-vous, mon cher ami? dit Caldas inquiet.
 
 --Che fous vais ein bartessus, ein baldot, ein bandalon et ein chilet;
 fus aurez tut cela temain, temain madin, te ponne heure.
